@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start: 2021-08-04 16:17:29
+  finish: 2021-08-04 16:17:29
+  break_time: 1.5
+  organisation: one
+  user: one
+
+two:
+  start: 2021-08-04 16:17:29
+  finish: 2021-08-04 16:17:29
+  break_time: 1.5
+  organisation: two
+  user: two
